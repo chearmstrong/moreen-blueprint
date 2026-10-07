@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+secrets/
+state/
+logs/
+*.sqlite
+*.sqlite-*
+__pycache__/
+node_modules/

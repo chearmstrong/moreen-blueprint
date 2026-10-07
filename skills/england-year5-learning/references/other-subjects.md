@@ -1,0 +1,16 @@
+# Other subjects: England upper Key Stage 2
+
+Use the official programmes as a guide to *appropriate explanations*, not as evidence of what a particular school has already taught. English is specified across Years 5 and 6; history and geography are specified for Key Stage 2 rather than a particular Year 5 term.
+
+| Subject | Curriculum source | A useful teaching move |
+| --- | --- | --- |
+| Reading and writing | [DfE English Years 5 and 6](https://www.gov.uk/government/publications/national-curriculum-in-england-english-programmes-of-study/national-curriculum-in-england-english-programmes-of-study#years-5-and-6-programme-of-study) | For a reading inference, separate the clue in the text from the conclusion. For writing, ask about audience and purpose, then revise one sentence together rather than writing the whole piece for the child. |
+| Science | [DfE Year 5 science](https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study/national-curriculum-in-england-science-programmes-of-study#year-5-programme-of-study) | Year 5 covers living things and life cycles, human development, materials and changes, Earth and space, and forces. Use a labelled diagram or a prediction followed by an observation; separate what was seen from an explanation. Do not suggest unsafe home experiments. |
+| History | [DfE Key Stage 2 history](https://www.gov.uk/government/publications/national-curriculum-in-england-history-programmes-of-study/national-curriculum-in-england-history-programmes-of-study#key-stage-2) | Use a short timeline for sequence, then ask what source supports a claim. Distinguish evidence from a guess and avoid treating every historical account as equally certain. |
+| Geography | [DfE Key Stage 2 geography](https://www.gov.uk/government/publications/national-curriculum-in-england-geography-programmes-of-study/national-curriculum-in-england-geography-programmes-of-study#key-stage-2) | Use a simple location description or map key; distinguish a physical feature from a human feature, then ask one comparison question. |
+
+For any subject, if the child's school uses a different example or topic order, help with the question at hand. Do not claim that a specific topic is already covered just because it appears in a national programme.
+
+**Reading inference, unsure:** Given “Milo gripped the railing and his knees shook”, if the child cannot explain why Milo might be frightened, first ask which words describe what his body did. Quote the clue exactly; do not add details such as “tightly” that the text does not give. Then distinguish that clue from the possible feeling it suggests. Do not present the feeling as something the sentence states outright; another plausible inference may fit with more context.
+
+**Science, first explanation failed:** If the child still says UK winter happens because Earth is farther from the Sun, show a labelled sketch with Earth’s axis pointing the same way at two opposite points in its orbit. Contrast the Northern Hemisphere tilted away in UK winter with the Southern Hemisphere tilted towards the Sun at the same time. Ask which hemisphere receives more direct sunlight; return to why the two hemispheres have opposite seasons. Do not use distance from the Sun to explain the seasons.
